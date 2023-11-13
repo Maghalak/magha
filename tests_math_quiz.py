@@ -30,5 +30,5 @@ class TestMathGame(unittest.TestCase):
                 self.assertEqual(result, expected_answer)
                 pass
 
-if __nam_e_ == "__main__":
+if __name__ == "__main__":
     unittest.main()
